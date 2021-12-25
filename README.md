@@ -11,7 +11,7 @@ the current version of the problem requirements.
 If interested in my comments and approach I invite 
 you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/12/25/leetcode-141-linked-list-cycle-in-java/
 
 Keep in mind that one of the best wayd to learn is
 to read, experiment, and repeat. Practice makes perfect.
